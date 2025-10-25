@@ -1,0 +1,17 @@
+[package]
+name = "rs-ach"
+version = "0.1.0"
+edition = "2024"
+authors = ["Juan Abimael Santos Castillo"]
+license = "MIT"
+description = "ACH (Automated Clearing House) file parser following NACHA specifications"
+repository = "https://github.com/abimael10/rs-ach"
+documentation = "https://docs.rs/rs-ach"
+readme = "README.md"
+keywords = ["ach", "nacha", "banking", "payment", "parser"]
+categories = ["parsing", "finance"]
+
+[dependencies]
+thiserror = "2.0"
+
+[dev-dependencies]
