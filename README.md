@@ -13,7 +13,6 @@ ACH (Automated Clearing House) file parser for Rust following the NACHA (Nationa
 - Entry detail records with addenda support
 - Type-safe parsing with comprehensive error handling
 - Zero-copy parsing for maximum performance
-- Complete NACHA format validation
 
 ## Installation
 
