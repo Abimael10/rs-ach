@@ -21,7 +21,7 @@ Add this to your `Cargo.toml`:
 
 ```toml
 [dependencies]
-rs-ach = "0.1.0"
+rs-ach = "0.1.2"
 ```
 ## Example
 
